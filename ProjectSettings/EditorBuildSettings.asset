@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 8fc42cd30a67a0d4fbec7776680f4892
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 86f84ddc87e73844ebeb0ca3414309dc
+  - enabled: 1
+    path: Assets/Scenes/CustomizeSoldiers.unity
+    guid: 067aaa65e66b71c43872b56d1def7529
+  - enabled: 1
+    path: Assets/Scenes/TrainingLevel.unity
+    guid: e21061853e4ec41428ffc972e1fecad9
+  m_configObjects: {}
