@@ -1,4 +1,4 @@
-# Personal Project
+# Personal Project, Unity Game
 
 Welcome to my personal project repository! This project is a work-in-progress and currently features functionality centered around the management and customization of soldiers. Below are the key features available at this stage:
 
