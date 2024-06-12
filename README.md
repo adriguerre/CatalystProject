@@ -2,7 +2,7 @@
 
 Welcome to my personal project repository! This project is a work-in-progress and currently features functionality centered around the management and customization of soldiers. Below are the key features available at this stage:
 
-Full presentation video: https://www.youtube.com/watch?v=P-sBZPmm7BU&t=25s
+Full presentation video: https://www.youtube.com/watch?v=P-sBZPmm7BU
 
 - **Soldier Customization:** Modify soldiers to your liking, adjusting their attributes, appearance, and equipment.
 - **State Saving:** Save the current state of your soldiers to preserve their configuration between sessions.
