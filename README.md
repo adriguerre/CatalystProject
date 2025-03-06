@@ -6,7 +6,7 @@ Full presentation video: https://www.youtube.com/watch?v=P-sBZPmm7BU
 
 - **Soldier Customization:** Modify soldiers to your liking, adjusting their attributes, appearance, and equipment.
 - **State Saving:** Save the current state of your soldiers to preserve their configuration between sessions.
-- 
+  
 ![Catalyst_1](https://github.com/user-attachments/assets/9d4cb42b-9d32-4965-b917-6c5716ca725b)
 
 ![Catalyst_2](https://github.com/user-attachments/assets/0c316c66-bc34-4a45-8a3b-8598c70cde91)
@@ -18,28 +18,29 @@ Full presentation video: https://www.youtube.com/watch?v=P-sBZPmm7BU
 ![Catalyst_4](https://github.com/user-attachments/assets/1ca09978-c905-4a5e-9990-dfc7f8d62650)
 
 
-**UI Concepts**
+## **UI Concepts**
 
-Main Game background is a placeholder (Door Kickers 2)
+Main Game background is a placeholder (Door Kickers 2 [https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/])
 
-*Mission Selection*
+### *Mission Selection*
 ![Mission Pick](https://github.com/user-attachments/assets/e2ce5504-18dd-40e9-a3e9-87a26c51b21f)
 
 ![Recommend Equipment](https://github.com/user-attachments/assets/5388a429-e4d2-40a1-9c55-387efa21a557)
 
 
-*Squad*
+### *Squad*
+
 ![Squad](https://github.com/user-attachments/assets/5bb1f1ce-a651-4dc9-994f-b1250ddf579b)
 
-*Squad member dead*
+### *Squad member dead*
 
 ![Squad Member dead](https://github.com/user-attachments/assets/83f7549a-13f3-4d7c-b23b-07dcf7f34745)
 
-*Recruit Member*
+### *Recruit Member*
 
 ![RECRUIT MEMBER](https://github.com/user-attachments/assets/c7fdb640-3e34-4adf-b7c3-ec3f0d2f9a0e)
 
-*Customizing menu*
+### *Customizing menu*
 
 ![Customize Menu](https://github.com/user-attachments/assets/b970af71-483e-4801-bbbb-a308e4c35dde)
 
@@ -51,12 +52,11 @@ Main Game background is a placeholder (Door Kickers 2)
 
 ![Customize Weapon](https://github.com/user-attachments/assets/a2292be3-f40a-4552-98b1-178a17097e55)
 
-*Loading Screen*
+### *Loading Screen*
 
 ![LOADING SCREEN](https://github.com/user-attachments/assets/e5342ed7-6679-4648-9688-7b9e954e17e2)
 
-
-*Gameplay*
+### *Gameplay*
 
 ![INGAME SOLDIER INFO](https://github.com/user-attachments/assets/e6f2d2fb-c496-4321-b233-7c917bc70333)
 
@@ -74,7 +74,8 @@ Main Game background is a placeholder (Door Kickers 2)
 
 ![USING TOOLS](https://github.com/user-attachments/assets/942311e9-d3aa-45c7-b9ff-720b83eb4d0a)
 
-*Heal Options*
+### *Heal Options*
+
 
 ![HEAL OPTION - 1](https://github.com/user-attachments/assets/8fc46ec4-f7f3-40a3-8a42-0ff5bf3cef21)
 
@@ -84,7 +85,7 @@ Main Game background is a placeholder (Door Kickers 2)
 
 ![HEAL OPTION - 1-1](https://github.com/user-attachments/assets/c72da800-4300-458d-a933-ef4dd4826ac3)
 
-*Map*
+### *Map*
 
 ![MAP](https://github.com/user-attachments/assets/3bb2cc99-be01-489e-9de6-5cf2f83bc03d)
 
@@ -94,8 +95,7 @@ Main Game background is a placeholder (Door Kickers 2)
 
 ![TACTICAL PAUSE](https://github.com/user-attachments/assets/63b3c2ce-da92-476b-b576-93214c86360b)
 
-
-*Pause Menu*
+### *Pause Menu*
 
 ![Pause Menu](https://github.com/user-attachments/assets/59e93337-5470-46db-a63f-946d06f35365)
 
@@ -107,8 +107,7 @@ Main Game background is a placeholder (Door Kickers 2)
 
 ![Pause Menu - DELETE LOAD](https://github.com/user-attachments/assets/d2df94ac-4390-454b-978e-dccae5217624)
 
-
-*Final Score*
+### *Final Score*
 
 ![Final Score](https://github.com/user-attachments/assets/0776f96e-22d2-4d39-9b0b-257c4f7a4941)
 
