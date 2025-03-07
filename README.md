@@ -20,7 +20,17 @@ Full presentation video: https://www.youtube.com/watch?v=P-sBZPmm7BU
 
 ## **UI Concepts**
 
-Main Game background is a placeholder (Door Kickers 2 [https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/])
+Mission image is a placeholder.
+
+Main Game background is a placeholder (Door Kickers 2 [https://store.steampowered.com/app/1239080/Door_Kickers_2_Task_Force_North/]).
+
+Loading Screen background image is a placeholder.
+
+Main Menu background image is a placeholder.
+
+Top Right Corner Camera is a placeholder image (Ready Or Not [https://store.steampowered.com/app/1144200/Ready_or_Not/]
+
+Soldiers: https://assetstore.unity.com/packages/3d/characters/humanoids/humans/modular-soldier-pack-222861
 
 ### *Mission Selection*
 ![Mission Pick](https://github.com/user-attachments/assets/e2ce5504-18dd-40e9-a3e9-87a26c51b21f)
